@@ -1,0 +1,28 @@
+.header{
+    padding: 10px;
+    width: 700px;
+    height: 200px;
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.image{
+    height: 180px;
+    border-radius: 10px;
+}
+.dash{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.dash-adress{
+    margin-left: auto;
+}
+.side-text p{
+    margin-top: 40px;
+}
