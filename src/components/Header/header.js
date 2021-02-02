@@ -1,4 +1,5 @@
 import "./header.css"
+import {FaEnvelope, FaPhone} from "react-icons/fa"
 import image from "./sideeq.jpg"
 const Header = () => {
     return ( <div className="header row">
@@ -12,8 +13,8 @@ const Header = () => {
                 <label>Frontend Developer</label>
             </div>
             <div className="dash-adress">
-                Abdwaheed2018@gmail.com<br/>
-                (+234)-811-390-6263
+               <FaEnvelope /> Abdwaheed2018@gmail.com<br/>
+               <FaPhone />  (+234)-811-390-6263
             </div>
         </div>
         <p>Self motivated Developer who is willing to learn and create outstanding UI application.
