@@ -20,7 +20,7 @@ const Project = ({image, Head, paragraph, code, preview}) => {
     <p>{paragraph}</p>
     </div>
     <div className="preview" style={style}>
-    <div className="btn btn-primary">{preview}</div>
+    <a href={preview} className="btn btn-primary">Preview</a>
     <div className="btn">{code}</div>
     </div>
     </div>);
