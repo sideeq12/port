@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.1df37fae.chunk.css",
+    "main.js": "/port/static/js/main.ba3ac675.chunk.js",
+    "main.js.map": "/port/static/js/main.ba3ac675.chunk.js.map",
+    "runtime-main.js": "/port/static/js/runtime-main.7dbde3cd.js",
+    "runtime-main.js.map": "/port/static/js/runtime-main.7dbde3cd.js.map",
+    "static/js/2.228a13bb.chunk.js": "/port/static/js/2.228a13bb.chunk.js",
+    "static/js/2.228a13bb.chunk.js.map": "/port/static/js/2.228a13bb.chunk.js.map",
+    "static/js/3.e7453e6b.chunk.js": "/port/static/js/3.e7453e6b.chunk.js",
+    "static/js/3.e7453e6b.chunk.js.map": "/port/static/js/3.e7453e6b.chunk.js.map",
+    "index.html": "/port/index.html",
+    "static/css/main.1df37fae.chunk.css.map": "/port/static/css/main.1df37fae.chunk.css.map",
+    "static/js/2.228a13bb.chunk.js.LICENSE.txt": "/port/static/js/2.228a13bb.chunk.js.LICENSE.txt",
+    "static/media/Game.c671517f.jpg": "/port/static/media/Game.c671517f.jpg",
+    "static/media/campus.faf0ed2d.jpg": "/port/static/media/campus.faf0ed2d.jpg",
+    "static/media/check.5069fee8.png": "/port/static/media/check.5069fee8.png",
+    "static/media/cooking.15842a79.png": "/port/static/media/cooking.15842a79.png",
+    "static/media/five.9032c28a.jpg": "/port/static/media/five.9032c28a.jpg",
+    "static/media/foot.cb0969c9.jpg": "/port/static/media/foot.cb0969c9.jpg",
+    "static/media/gallery.efa0eebe.jpg": "/port/static/media/gallery.efa0eebe.jpg",
+    "static/media/react.4c2d00e4.jpg": "/port/static/media/react.4c2d00e4.jpg",
+    "static/media/recipe.d0bcf48b.jpg": "/port/static/media/recipe.d0bcf48b.jpg",
+    "static/media/sideeq.9694eaee.jpg": "/port/static/media/sideeq.9694eaee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbde3cd.js",
+    "static/js/2.228a13bb.chunk.js",
+    "static/css/main.1df37fae.chunk.css",
+    "static/js/main.ba3ac675.chunk.js"
+  ]
+}
