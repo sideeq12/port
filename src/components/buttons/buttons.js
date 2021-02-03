@@ -5,7 +5,7 @@ const Buttons = () => {
         marginTop : "10px",
         marginLeft : "auto",
         marginRight : "auto",
-        width : "50%",
+        width : "40%",
         height : "80px",
         backgroundColor : "white",
         borderRadius : "10px"

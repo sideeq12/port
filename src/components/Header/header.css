@@ -30,3 +30,23 @@
 .side-text p{
     margin-top: 40px;
 }
+
+
+@media (max-width : 740px){
+    .header{
+        height: 420px;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+    }
+    .dash{
+        flex-direction: column;
+    }
+    .dash-adress{
+         margin-top: 10px;
+        margin-left: 0px;
+    }
+    .side-text p{
+        margin-top: 20px;
+    }
+}
