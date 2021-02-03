@@ -4,7 +4,7 @@ import "./project.css"
 const style = {
     display : "flex",
     flexDirection : "row",
-    justifyContent : "space-between"
+    justifyContent : "space-arounf"
 }
 const imageStyle ={
     height : "60%",
@@ -21,7 +21,7 @@ const Project = ({image, Head, paragraph, code, preview}) => {
     </div>
     <div className="preview" style={style}>
     <a href={preview} className="btn btn-primary">Preview</a>
-    <div className="btn">{code}</div>
+    <a href={code} className="btn btn-secondary" style={{marginLeft: "20px"}}>Code</a>
     </div>
     </div>);
 }
